@@ -7,8 +7,7 @@ Written using swift in swift playground.
 
 ###Prickly Onion Manatee Fingers 
 
-Ingredients:
-
+####Ingredients:
 2 manatee fingers
 
 6 onions
@@ -20,8 +19,7 @@ Ingredients:
 4 cups of milk
 
 
-Directions:
-
+####Directions:
 Silently stir butter and milk in a gigantic toilet.
 Add manatee, onion and cheese.
 Shuffle briskly until rough.
@@ -29,8 +27,7 @@ Sit in a toaster oven at 279°F for 1 seconds until prickly brown.
 
 ###Crispy Lemon Playpus Drumsticks 
 
-Ingredients:
-
+####Ingredients:
 10 playpus drumsticks
 
 3 lemons
@@ -42,8 +39,7 @@ Ingredients:
 5 teaspoons of vinegar
 
 
-Directions:
-
+####Directions:
 Vigorously stir honey and vinegar in a large pot.
 Add playpus, lemon and flour.
 Mix eagerly until blended.
