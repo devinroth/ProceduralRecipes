@@ -8,11 +8,11 @@ Written using swift in swift playground.
 ###Prickly Onion Manatee Fingers 
 
 Ingredients:
--2 manatee fingers
--6 onions
--2 cups of cheese
--4 teaspoons of butter
--4 cups of milk
+2 manatee fingers
+6 onions
+2 cups of cheese
+4 teaspoons of butter
+4 cups of milk
 
 Directions:
 Silently stir butter and milk in a gigantic toilet.
